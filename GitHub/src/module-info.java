@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Frederick
+ *
+ */
+module GitHub {
+}
